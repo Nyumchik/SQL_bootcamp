@@ -1,0 +1,10 @@
+DROP INDEX idx_menu_pizzeria_id;
+DROP INDEX idx_person_visits_person_id;
+DROP INDEX idx_person_visits_pizzeria_id;
+DROP INDEX idx_person_order_person_id;
+DROP INDEX idx_person_order_menu_id;
+DROP INDEX idx_person_name;
+DROP INDEX idx_person_order_multi;
+DROP INDEX idx_menu_unique;
+DROP INDEX idx_person_order_order_date;
+DROP INDEX idx_1;
